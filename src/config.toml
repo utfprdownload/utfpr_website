@@ -1,8 +1,10 @@
 baseURL = 'https://utfpr.download/'
 languageCode = 'pt-BR'
 theme = "hugo-geekdoc"
-title = 'UTPFR'
+title = 'UTFPR - União Terrestre de Formação Paranaense'
 
+geekdocSearch=true
+geekdocSearchShowParent=true
 pluralizeListTitles = false
 
 # Geekdoc required configuration

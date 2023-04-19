@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "ELEX10 - Introdução A Práticas De Laboratório Em Eletricidade E Eletrônica"
+date: 2023-04-19T14:25:09-03:00
 draft: false
 ---
 

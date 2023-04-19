@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "ICSD20 - Introdução À Lógica Para Computação"
+date: 2023-04-19T14:25:17-03:00
 draft: false
 ---
 

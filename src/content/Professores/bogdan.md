@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Bogdan Tomoyuki Nassu"
+date: 2023-04-19T14:50:02-03:00
 draft: false
 ---
 

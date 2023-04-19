@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "ICSF13 - Fundamentos De Programação 1"
+date: 2023-04-19T14:25:24-03:00
 draft: false
 ---
 
